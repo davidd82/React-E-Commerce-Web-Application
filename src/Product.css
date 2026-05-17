@@ -1,0 +1,11 @@
+#sub-btn {
+    border-color: red;
+    color: red;
+    background-color: white;
+}
+
+#add-btn {
+    border-color: green;
+    color: green;
+    background-color: white;
+}

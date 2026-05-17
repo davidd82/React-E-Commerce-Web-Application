@@ -1,0 +1,22 @@
+.bg-body-tertiary {
+    background-color: black !important;
+}
+
+.text-body-secondary {
+    color: white !important;
+}
+
+.display-5 {
+    font-family: "AeroliteCP", sans-serif;
+    font-size: 5em;
+}
+
+.fw-bold {
+    font-weight: 100 !important;
+}
+
+
+@font-face {
+	font-family: "AeroliteCP";
+	src: url("fonts/AeroliteCPone.otf");
+}

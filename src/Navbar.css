@@ -1,0 +1,22 @@
+.navbar-brand {
+    color: white;
+    text-align: center;
+    font-family: "AeroliteCP", sans-serif;
+    font-size: 2em;
+}
+
+.bg-dark {
+    background-color: grey !important;
+}
+
+@font-face {
+	font-family: "AeroliteCP";
+	src: url("fonts/AeroliteCPone.otf");
+}
+
+.nav-link {
+    font-family: "AeroliteCP", sans-serif;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+}
