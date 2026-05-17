@@ -1,3 +1,4 @@
+Website Link: [React E-Commerce Web Application](https://uscwebdev.github.io/tac303-submissions-davidd82/assignment_07/dist/index.html#products-featured)
 # React E-Commerce Web Application
 
 A responsive e-commerce web application built with **React** and **Vite** that allows users to browse products, manage a shopping cart, and dynamically add or remove products through an interactive user interface.
